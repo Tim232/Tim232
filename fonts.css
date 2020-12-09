@@ -1,0 +1,153 @@
+@font-face {
+  font-family: 'Metropolis';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Metropolis Regular'), url('./fonts/Metropolis-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Metropolis';
+  font-style: italic;
+  font-weight: normal;
+  src: local('Metropolis Regular Italic'), url('./fonts/Metropolis-RegularItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Metropolis';
+  font-style: normal;
+  font-weight: lighter;
+  src: local('Metropolis Extra Light'), url('./fonts/Metropolis-ExtraLight.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Metropolis';
+  font-style: normal;
+  font-weight: 200;
+  src: local('Metropolis Light'), url('./fonts/Metropolis-Light.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Metropolis';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Metropolis Thin'), url('./fonts/Metropolis-Thin.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Metropolis';
+  font-style: italic;
+  font-weight: lighter;
+  src: local('Metropolis Extra Light Italic'), url('./fonts/Metropolis-ExtraLightItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Metropolis';
+  font-style: italic;
+  font-weight: 200;
+  src: local('Metropolis Light Italic'), url('./fonts/Metropolis-LightItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Metropolis';
+  font-style: italic;
+  font-weight: 300;
+  src: local('Metropolis Thin Italic'), url('./fonts/Metropolis-ThinItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Metropolis';
+  font-style: normal;
+  font-weight: 500;
+  src: local('Metropolis Medium'), url('./fonts/Metropolis-Medium.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Metropolis';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Metropolis Semi Bold'), url('./fonts/Metropolis-SemiBold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Metropolis';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Metropolis Bold'), url('./fonts/Metropolis-Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Metropolis';
+  font-style: italic;
+  font-weight: 700;
+  src: local('Metropolis Bold Italic'), url('./fonts/Metropolis-BoldItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Metropolis';
+  font-style: italic;
+  font-weight: 500;
+  src: local('Metropolis Medium Italic'), url('./fonts/Metropolis-MediumItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Metropolis';
+  font-style: italic;
+  font-weight: 600;
+  src: local('Metropolis Semi Bold Italic'), url('./fonts/Metropolis-SemiBoldItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Metropolis';
+  font-style: normal;
+  font-weight: 800;
+  src: local('Metropolis Extra Bold'), url('./fonts/Metropolis-ExtraBold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Metropolis';
+  font-style: italic;
+  font-weight: 800;
+  src: local('Metropolis Extra Bold Italic'), url('./fonts/Metropolis-ExtraBoldItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Metropolis';
+  font-style: normal;
+  font-weight: 900;
+  src: local('Metropolis Black'), url('./fonts/Metropolis-Black.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Metropolis';
+  font-style: italic;
+  font-weight: 900;
+  src: local('Metropolis Black Italic'), url('./fonts/Metropolis-BlackItalic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Spoqa Han Sans';
+  font-weight: 700;
+  src: local('Spoqa Han Sans Bold'),
+    url('./fonts/Spoqa\ Han\ Sans\ Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Spoqa Han Sans';
+  font-weight: 400;
+  src: local('Spoqa Han Sans Regular'),
+    url('./fonts/Spoqa\ Han\ Sans\ Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Spoqa Han Sans';
+  font-weight: 300;
+  src: local('Spoqa Han Sans Light'),
+    url('./fonts/Spoqa\ Han\ Sans\ Light.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Spoqa Han Sans';
+  font-weight: 100;
+  src: local('Spoqa Han Sans Thin'),
+    url('./fonts/Spoqa\ Han\ Sans\ Thin.ttf') format('truetype');
+}
