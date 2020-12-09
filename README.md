@@ -22,9 +22,9 @@ Mail : [endbot4023@gmail.com](mailto:endbot4023@gmail.com)
 
 ---
 
-* [EndBot Offical Site](https://endbot.ml/)
+* [Offical Site](https://tim23.me/)
 * [Invite EndBot](http://invite.endbot.kro.kr/)
-* [My Official Site](https://tim232.ml)
+* [My Official Site](https://info.tim23.me)
 
 
 <!--
