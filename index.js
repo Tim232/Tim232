@@ -14,6 +14,7 @@ Array.from(document.querySelectorAll('.pill')).forEach(el => {
         switch (e.target.getAttribute('data-lang')) {
             case 'Python':
                 document.querySelector('.about-skilled .desc').innerHTML = 'Target Skill Level<div class="progress" data-percent="90"></div><br>Python is a platform independent, interpreted, object-oriented, dynamic typing interactive language. <a href="https://en.wikipedia.org/wiki/Python" target="_blank">Wikipedia</a>'
+                break
             case 'C/C++':
                 document.querySelector('.about-skilled .desc').innerHTML = 'Target Skill Level<div class="progress" data-percent="70"></div><br>C is a general-purpose, procedural computer programming language supporting structured programming, lexical variable scope, and recursion, with a static type system. <a href="https://en.wikipedia.org/wiki/C_(programming_language) target="_blank">Wikipedia</a>'
                 break
